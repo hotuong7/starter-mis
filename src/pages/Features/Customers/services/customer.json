@@ -1,0 +1,18 @@
+[
+  {
+    "id": "33abca2a-3af9-11ec-8d3d-0242ac130003",
+    "first_name": "An",
+    "last_name": "Nguyen",
+    "gender": "male",
+    "created_at": 234
+  },
+  {
+    "id":"4b563098-3af9-11ec-8d3d-0242ac130003",
+    "first_name": "Huy",
+    "last_name": "Nguyen",
+    "gender": "male",
+    "age": 18,
+    "birthday": 1577811600000,
+    "created_at": 999
+  }
+]
